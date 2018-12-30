@@ -29,7 +29,7 @@ export default class VideoContainer extends Vue {}
   margin-top: 2rem;
   height: 98vh;
   width: 100%;
-  background-image: url('../assets/carly.jpg');
+  background-image: url('../assets/dawn.jpg');
   background-size: cover;
   background-position: center;
   filter: blur(10px);
